@@ -1,4 +1,4 @@
-package com.example.demo.dataStructure;
+package com.example.demo.DataStructure;
 
 import java.util.LinkedList;
 
