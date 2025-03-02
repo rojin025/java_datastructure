@@ -23,7 +23,6 @@ public class HashMapExample {
         
         basket.merge("orange",2,Integer::sum);
         System.out.println(basket.get("orange"));
-        
     }
 
 }
