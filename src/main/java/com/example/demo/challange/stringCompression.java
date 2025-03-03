@@ -2,7 +2,7 @@ package com.example.demo.challange;
 
 public class stringCompression {
 
-    public static String compressString(String input){
+    public String compressString(String input){
         if( input == null || input.length() < 1) return input;
 
         StringBuilder compressed = new StringBuilder();
@@ -21,9 +21,9 @@ public class stringCompression {
         return compressed.toString();
     }
 
-    public static void main(String[] args){
-        System.out.println("----------------------------------------");
-        System.out.println("Output: "+compressString("abbcccc"));
-        System.out.println("Output: "+compressString("abcc"));
-    }
+    // public static void main(String[] args){
+    //     System.out.println("----------------------------------------");
+    //     System.out.println("Output: "+compressString("abbcccc"));
+    //     System.out.println("Output: "+compressString("abcc"));
+    // }
 }
