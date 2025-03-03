@@ -1,17 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.example.demo.challange.stringCompressionTest
+Test set: com.example.demo.challange.StringCompressionTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! -- in com.example.demo.challange.stringCompressionTest
-com.example.demo.challange.stringCompressionTest.testStringCompressed -- Time elapsed: 0.004 s <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <a1b1c3> but was: <a1b1c2>
-	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
-	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
-	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
-	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1145)
-	at com.example.demo.challange.stringCompressionTest.testStringCompressed(stringCompressionTest.java:15)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s -- in com.example.demo.challange.StringCompressionTest

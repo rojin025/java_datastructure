@@ -1,6 +1,6 @@
 package com.example.demo.challange;
 
-public class stringCompression {
+public class StringCompression {
 
     public String compressString(String input){
         if( input == null || input.length() < 1) return input;
