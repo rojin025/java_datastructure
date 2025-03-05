@@ -17,6 +17,5 @@ public class CanFormPalindromeTest {
         assertEquals(false, canFormPalindrome.isPalindrome("aaccbebedg"));
         assertEquals(false, canFormPalindrome.isPalindrome("aaccbebedgxa"));
         assertEquals(false, canFormPalindrome.isPalindrome(""));
-
     }
 }
