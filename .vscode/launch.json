@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayProblem",
+      "request": "launch",
+      "mainClass": "com.example.demo.leetCode.Array.ArrayProblem",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
       "name": "stringCompression",
       "request": "launch",
       "mainClass": "com.example.demo.challange.stringCompression",
