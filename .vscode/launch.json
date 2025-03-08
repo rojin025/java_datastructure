@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringManipulation",
+      "request": "launch",
+      "mainClass": "com.example.demo.leetCode.TwoPointers.StringManipulation",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
       "name": "CircularArrayRotation",
       "request": "launch",
       "mainClass": "com.example.demo.leetCode.Array.CircularArrayRotation",
